@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "encapsulation", "encapsulat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noOpendading", "noOpendading\noOpendading.vcxproj", "{FD45510C-243D-466E-9953-EF360D95562A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abstraction", "abstraction\abstraction.vcxproj", "{22BF86EE-55D0-4CCD-9A8D-FF853989780C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{FD45510C-243D-466E-9953-EF360D95562A}.Release|x64.Build.0 = Release|x64
 		{FD45510C-243D-466E-9953-EF360D95562A}.Release|x86.ActiveCfg = Release|Win32
 		{FD45510C-243D-466E-9953-EF360D95562A}.Release|x86.Build.0 = Release|Win32
+		{22BF86EE-55D0-4CCD-9A8D-FF853989780C}.Debug|x64.ActiveCfg = Debug|x64
+		{22BF86EE-55D0-4CCD-9A8D-FF853989780C}.Debug|x64.Build.0 = Debug|x64
+		{22BF86EE-55D0-4CCD-9A8D-FF853989780C}.Debug|x86.ActiveCfg = Debug|Win32
+		{22BF86EE-55D0-4CCD-9A8D-FF853989780C}.Debug|x86.Build.0 = Debug|Win32
+		{22BF86EE-55D0-4CCD-9A8D-FF853989780C}.Release|x64.ActiveCfg = Release|x64
+		{22BF86EE-55D0-4CCD-9A8D-FF853989780C}.Release|x64.Build.0 = Release|x64
+		{22BF86EE-55D0-4CCD-9A8D-FF853989780C}.Release|x86.ActiveCfg = Release|Win32
+		{22BF86EE-55D0-4CCD-9A8D-FF853989780C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
