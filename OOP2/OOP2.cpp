@@ -7,6 +7,12 @@ public:
 
 };
 
+class joko :public seseorang {
+public:
+
+};
+
+
 int main()
 {
     std::cout << "Hello World!\n";
