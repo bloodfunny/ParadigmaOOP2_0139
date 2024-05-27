@@ -9,7 +9,9 @@ public:
 
 class joko :public seseorang {
 public:
-
+    void pesan() {
+        cout << "Pesan darijoko" << endl;
+    }
 };
 
 
