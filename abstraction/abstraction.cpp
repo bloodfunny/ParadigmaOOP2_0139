@@ -21,5 +21,10 @@ public:
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    abstracktIklas ak;
+    ak.setXY("yogyakarta", "kampus");
+    ak.display();
+
+    return 0;
+
 }
