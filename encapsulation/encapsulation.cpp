@@ -2,6 +2,8 @@
 using namespace std;
 
 class remoteLampu {
+private:
+    string saklarno[10];
 
 };
 
