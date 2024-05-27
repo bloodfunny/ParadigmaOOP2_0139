@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noOpendading", "noOpendadin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abstraction", "abstraction\abstraction.vcxproj", "{22BF86EE-55D0-4CCD-9A8D-FF853989780C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "multipewaris", "multipewaris\multipewaris.vcxproj", "{EE82FB87-9E01-4521-8D29-0CD683728624}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{22BF86EE-55D0-4CCD-9A8D-FF853989780C}.Release|x64.Build.0 = Release|x64
 		{22BF86EE-55D0-4CCD-9A8D-FF853989780C}.Release|x86.ActiveCfg = Release|Win32
 		{22BF86EE-55D0-4CCD-9A8D-FF853989780C}.Release|x86.Build.0 = Release|Win32
+		{EE82FB87-9E01-4521-8D29-0CD683728624}.Debug|x64.ActiveCfg = Debug|x64
+		{EE82FB87-9E01-4521-8D29-0CD683728624}.Debug|x64.Build.0 = Debug|x64
+		{EE82FB87-9E01-4521-8D29-0CD683728624}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE82FB87-9E01-4521-8D29-0CD683728624}.Debug|x86.Build.0 = Debug|Win32
+		{EE82FB87-9E01-4521-8D29-0CD683728624}.Release|x64.ActiveCfg = Release|x64
+		{EE82FB87-9E01-4521-8D29-0CD683728624}.Release|x64.Build.0 = Release|x64
+		{EE82FB87-9E01-4521-8D29-0CD683728624}.Release|x86.ActiveCfg = Release|Win32
+		{EE82FB87-9E01-4521-8D29-0CD683728624}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
